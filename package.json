@@ -1,0 +1,21 @@
+{
+  "name": "picshare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "picshare.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "make": "elm make src/Picshare.elm --output picshare.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://slowburnaz@github.com/SlowburnAZ/picshare.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlowburnAZ/picshare/issues"
+  },
+  "homepage": "https://github.com/SlowburnAZ/picshare#readme",
+  "dependencies": {}
+}
